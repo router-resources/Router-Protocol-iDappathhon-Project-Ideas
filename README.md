@@ -60,8 +60,8 @@ A decentralized market where anyone can insure a cross-chain transaction. Can st
 **On-chain subscriptions**
 A protocol that is a factory for any app to create on-chain payment streaming and subscriptions in a cross-chain environment. The creators can take funds on any chain - the subscribers can pay from any chain. Abstract all the complexities. 
 
-**Education- a game-type**
-protocol that walks a user thu the interoperable journey. Combining video clips, interoperability resources and cross-chain swaps & NFTs  quest-type journey to get normies up to speed
+**Education** 
+A game-type protocol that walks a user thu the interoperable journey. Combining video clips, interoperability resources and cross-chain swaps & NFTs  quest-type journey to get normies up to speed
 
 **Cross-Chain Arbitrage bots**
 A bot that automatically captures arbitrage in low liquidity cross-chain environment. The bot should use Voyager for cross-chain swaps.
