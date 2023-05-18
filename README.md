@@ -72,3 +72,17 @@ Create a fully on-chain cross-chain pricing oracle.
 **Slashing Insurance**
 A simple insurance protocol where the Router-chain community can provide insurance for validators against the risk of being slashed
 
+**Cross-Chain Yield Aggregator**: Simplify staking across multiple chains by allowing users to view and stake from any chain they have funds on, eliminating the need for asset transfers.
+
+**Cross-Chain Disperse Application**: Create a DApp where users can disperse funds to multiple chains in a single transaction by specifying addresses, chains, and amounts, using Router Protocol.
+
+**Cross-Chain Governance**: Develop a cross-chain governance mechanism for simultaneous voting across multiple chains, ensuring fair decision-making and using middleware contracts to add additional voting power based on specific requirements.
+
+**Cross Chain Liquidity Aggregator**: Build a system that consolidates liquidity from different chains into Router Chain, enhancing trading efficiency and reducing fragmentation across decentralized exchanges.
+
+**Omnichain SBTs**: Enable Sould Bound Tokens (SBTs) to be seen and verified across any chain by leveraging Router Chain, enhancing their accessibility and usability.
+
+**Cross-chain social media platforms using Router Protocol**: Build a social media platform that allows users to interact with smart contracts on a chain with lower transaction fees while securely storing posts on a more secure chain.
+
+
+
