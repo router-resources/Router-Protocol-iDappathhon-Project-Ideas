@@ -8,22 +8,29 @@ This repository contains a collection of project ideas that you can use as inspi
 
 **What is the iDappathon?**
 
-The iDappathon is a hackathon organized by Router Protocol which aims to support outstanding projects and engage a wide range of builders in experimenting and launching innovative blockchain solutions on Router Protocol's testnet.It's a chance to collaborate with other developers, learn from experts, and build innovative blockchain solutions using Router Protocol's testnet.
+The iDappathon is a hackathon organized by [Router Protocol](https://www.routerprotocol.com/) on [DoraHacks platform](https://dorahacks.io/hackathon/router-idaapathon/detail) which aims to support outstanding projects and engage a wide range of builders in experimenting and launching innovative blockchain solutions on Router Protocol's testnet.It's a chance to collaborate with other developers, learn from experts, and build innovative blockchain solutions using Router Protocol's testnet.
 
-**How to Participate**
+**How to Participate?**
 
-To participate in the iDappathon, visit [this website](https://dorahacks.io/hackathon/router-idaapathon/detail). There you will find all the necessary information, including registration instructions, submission guidelines, and important dates.
+To participate in the iDappathon, visit the [DoraHacks Website](https://dorahacks.io/hackathon/router-idaapathon/detail). There you will find all the necessary information, including registration instructions, submission guidelines, etc.
 
 **Why Participate?**
 
 By participating in the iDappathon, you not only get a chance to win from a generous prize pool of $15,000 but also gain exposure to the Router Protocol ecosystem. The winners will also receive a red-carpet entry to Router Protocol's grant program, where they can secure grants of up to $200,000 for their projects.
 
-Don't just read the ideas, bring them to life! Join the iDappathon, unleash your creativity, and build amazing iDapps based on these ideas.
+**Important Dates**
 
-Happy hacking!
+Submission Timeline: June 7 to June 21
+
+Review and Judging: June 22 & June 23
+
+Winner’s Project Demo/Closing Ceremony: June 27th, 2023
 
 
-Please check the [official documentation of Router Protocol](https://www.routerprotocol.com/)
+**Don't just read the ideas, bring them to life! Join the iDappathon, unleash your creativity, and build amazing iDapps based on these ideas.**
+
+
+**Happy hacking!**
 
 
 **Voyager Ideas:**
