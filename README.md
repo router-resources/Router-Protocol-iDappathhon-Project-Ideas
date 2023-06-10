@@ -1,7 +1,23 @@
+## Welcome to the iDappathon Project Ideas Repository!
 
-## Router Protocol iDAppathhon Project Ideas
+This repository contains a collection of project ideas that you can use as inspiration for building your own iDapps (Interoperable DApps). The iDappathon is a fantastic opportunity to turn these ideas into reality and showcase your skills.
 
-Hackathon participants are free to explore and build projects that span a variety of use cases across NFTs, DeFi, and Web3. The following is a list of interesting possible ideas sourced from the Router community and the participating judges/speakers. One of the beauties of utilizing DeFi’s composable building blocks is that they can be remixed and modified to build entirely new financial or gamification services. So take a look if you or your team is in need of some inspiration!
+**What is the iDappathon?**
+
+The iDappathon is a hackathon organized by Router Protocol which aims to support outstanding projects and engage a wide range of builders in experimenting and launching innovative blockchain solutions on Router Protocol's testnet.It's a chance to collaborate with other developers, learn from experts, and build innovative blockchain solutions using Router Protocol's testnet.
+
+**How to Participate**
+
+To participate in the iDappathon, visit the official iDappathon website: [iDappathon Details](https://dorahacks.io/hackathon/router-idaapathon/detail). There you will find all the necessary information, including registration instructions, submission guidelines, and important dates.
+
+**Why Participate?**
+
+By participating in the iDappathon, you not only get a chance to win from a generous prize pool of $15,000 but also gain exposure to the Router Protocol ecosystem. The winners will also receive a red-carpet entry to Router Protocol's grant program, where they can secure grants of up to $200,000 for their projects.
+
+Don't just read the ideas, bring them to life! Join the iDappathon, unleash your creativity, and build amazing iDapps based on these ideas.
+
+Happy hacking!
+
 
 <!-- <p align="center" >
 
