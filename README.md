@@ -26,12 +26,7 @@ Review and Judging: June 22 & June 23
 
 Winner’s Project Demo/Closing Ceremony: June 27th, 2023
 
-
-**Don't just read the ideas, bring them to life! Join the iDappathon, unleash your creativity, and build amazing iDapps based on these ideas.**
-
-
-**Happy hacking!**
-
+## iDappathon Project Ideas**
 
 **Voyager Ideas:**
 Cross-Chain swaps are one of the most important utilities of a cross-chain ecosystem. Seamlessly swapping arbitrary assets within chains open new doors. You can leverage cross-chain swaps in a box to build new DApps. 
@@ -87,7 +82,10 @@ A simple insurance protocol where the Router-chain community can provide insuran
 
 **Cross-chain social media platforms using Router Protocol**: Build a social media platform that allows users to interact with smart contracts on a chain with lower transaction fees while securely storing posts on a more secure chain.
 
+**Don't just read the ideas, bring them to life! Join the iDappathon, unleash your creativity, and build amazing iDapps based on these ideas.**
 
+
+**Happy hacking!**
 
 # ⭐️ `Star us`
 
