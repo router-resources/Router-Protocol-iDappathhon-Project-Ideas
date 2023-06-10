@@ -32,20 +32,6 @@ Happy hacking!
 Please check the [official documentation of Router Protocol](https://www.routerprotocol.com/)
 
 
-# ⭐️ `Star us`
-
-If this repository helps you build cross-chain dapps faster and easier - please star this project, every star makes us very happy!
-
-# 🤝 `Need help?`
-
-If you need help or have other some questions - don't hesitate to write in our discord channel and we will check asap. [Discord link](https://discord.gg/xvx2pFu9). The best thing about this is the super active community ready to help at any time! We help each other.
-
-# 🤝 `Clone or fork this repository`
-
-```sh
-git clone https://github.com/router-resources/Router-Protocol-iDappathhon-Project-Idea
-```
-
 **Voyager Ideas:**
 Cross-Chain swaps are one of the most important utilities of a cross-chain ecosystem. Seamlessly swapping arbitrary assets within chains open new doors. You can leverage cross-chain swaps in a box to build new DApps. 
 
@@ -102,3 +88,16 @@ A simple insurance protocol where the Router-chain community can provide insuran
 
 
 
+# ⭐️ `Star us`
+
+If this repository helps you build cross-chain dapps faster and easier - please star this project, every star makes us very happy!
+
+# 🤝 `Need help?`
+
+If you need help or have other some questions - don't hesitate to write in our discord channel and we will check asap. [Discord link](https://discord.gg/xvx2pFu9). The best thing about this is the super active community ready to help at any time! We help each other.
+
+# 🤝 `Clone or fork this repository`
+
+```sh
+git clone https://github.com/router-resources/Router-Protocol-iDappathhon-Project-Idea
+```
