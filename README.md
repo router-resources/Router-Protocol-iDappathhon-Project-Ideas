@@ -1,5 +1,12 @@
 ## Welcome to the iDappathon Project Ideas Repository!
 
+
+<!-- <p align="center" >
+<img width="871" alt="image" src="https://github.com/router-resources/Router-Protocol-iDappathhon-Project-Ideas/assets/124175970/397e8cd4-d212-46fe-93f6-ab3fd091fac3">
+
+
+  </p> -->
+
 This repository contains a collection of project ideas that you can use as inspiration for building your own iDapps (Interoperable DApps). The iDappathon is a fantastic opportunity to turn these ideas into reality and showcase your skills.
 
 **What is the iDappathon?**
@@ -18,12 +25,6 @@ Don't just read the ideas, bring them to life! Join the iDappathon, unleash your
 
 Happy hacking!
 
-
-<!-- <p align="center" >
-<img width="871" alt="image" src="https://github.com/router-resources/Router-Protocol-iDappathhon-Project-Ideas/assets/124175970/4e0b8045-0c3c-4791-8cdb-15df4ed46fdf">
-
-
-  </p> -->
 
 <!-- ![router-protocol-crypto-ninjas](https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg) -->
 
