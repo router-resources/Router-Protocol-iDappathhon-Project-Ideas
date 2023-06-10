@@ -8,7 +8,7 @@ The iDappathon is a hackathon organized by Router Protocol which aims to support
 
 **How to Participate**
 
-To participate in the iDappathon, visit the official iDappathon website: [iDappathon Details](https://dorahacks.io/hackathon/router-idaapathon/detail). There you will find all the necessary information, including registration instructions, submission guidelines, and important dates.
+To participate in the iDappathon, visit [this website](https://dorahacks.io/hackathon/router-idaapathon/detail). There you will find all the necessary information, including registration instructions, submission guidelines, and important dates.
 
 **Why Participate?**
 
