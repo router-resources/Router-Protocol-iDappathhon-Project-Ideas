@@ -20,8 +20,9 @@ Happy hacking!
 
 
 <!-- <p align="center" >
+<img width="871" alt="image" src="https://github.com/router-resources/Router-Protocol-iDappathhon-Project-Ideas/assets/124175970/4e0b8045-0c3c-4791-8cdb-15df4ed46fdf">
 
-<img src="https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg" />
+
   </p> -->
 
 <!-- ![router-protocol-crypto-ninjas](https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg) -->
