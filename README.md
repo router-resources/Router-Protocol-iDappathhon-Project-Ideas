@@ -26,7 +26,7 @@ Review and Judging: June 22 & June 23
 
 Winner’s Project Demo/Closing Ceremony: June 27th, 2023
 
-## iDappathon Project Ideas**
+## iDappathon Project Ideas
 
 **Voyager Ideas:**
 Cross-Chain swaps are one of the most important utilities of a cross-chain ecosystem. Seamlessly swapping arbitrary assets within chains open new doors. You can leverage cross-chain swaps in a box to build new DApps. 
