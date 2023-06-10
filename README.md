@@ -1,11 +1,8 @@
 ## Welcome to the iDappathon Project Ideas Repository!
 
 
-<!-- <p align="center" >
 <img width="871" alt="image" src="https://github.com/router-resources/Router-Protocol-iDappathhon-Project-Ideas/assets/124175970/397e8cd4-d212-46fe-93f6-ab3fd091fac3">
 
-
-  </p> -->
 
 This repository contains a collection of project ideas that you can use as inspiration for building your own iDapps (Interoperable DApps). The iDappathon is a fantastic opportunity to turn these ideas into reality and showcase your skills.
 
@@ -24,11 +21,6 @@ By participating in the iDappathon, you not only get a chance to win from a gene
 Don't just read the ideas, bring them to life! Join the iDappathon, unleash your creativity, and build amazing iDapps based on these ideas.
 
 Happy hacking!
-
-
-<!-- ![router-protocol-crypto-ninjas](https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg) -->
-
-<img src="https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg" width="8000000em" height="400em" />
 
 
 Please check the [official documentation of Router Protocol](https://www.routerprotocol.com/)
